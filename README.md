@@ -1,6 +1,6 @@
 # MPC_learn
 ## paper  
-Robust Model Predictive Control: Implementation Issues with Comparative Analysis [IFAC 2018]((https://github.com/MizuhoAOKI/python_simple_mppi))  
+Robust Model Predictive Control: Implementation Issues with Comparative Analysis [IFAC 2018](https://github.com/MizuhoAOKI/python_simple_mppi)  
 
 ## demo
 MPC with Gaussian Process [Github](https://github.com/helgeanl/GP-MPC)  
