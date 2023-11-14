@@ -3,6 +3,9 @@
 Robust Model Predictive Control: Implementation Issues with Comparative Analysis [IFAC 2018](https://github.com/MizuhoAOKI/python_simple_mppi)  
 ## learning mpc
 GAN-MPC: Training Model Predictive Controllers with Parameterized Cost Functions using Demonstrations from Non-identical Experts. [best paper RBCDSAI-DAI 2023](https://github.com/returaj/gan_mpc)  
+## Event-trigger model predictive control  
+Event-Triggered Model Predictive Control with Deep Reinforcement Learning for Autonomous Driving. [Github 2022](https://github.com/dangfengying/rl-based-event-triggered-mpc)  
+
 
 ## demo
 MPC with Gaussian Process [Github](https://github.com/helgeanl/GP-MPC)  
