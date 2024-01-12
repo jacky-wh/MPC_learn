@@ -19,4 +19,5 @@ Model predictive control in Python based on quadratic programming [Github](https
 
 ### demo
 CasADi [Github](https://github.com/adamlm/mpc_demo)  
-matlab zhubin-beihang [Github](https://github.com/linzhuyue/mpc_learning/tree/main)
+matlab zhubin-beihang [Github](https://github.com/linzhuyue/mpc_learning/tree/main)  
+Robust TubeMpc [Github](https://github.com/zhengang-zhong/robust_MPC) 
