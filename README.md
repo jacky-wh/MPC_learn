@@ -1,6 +1,7 @@
 # MPC_learn
 ## paper  
 Robust Model Predictive Control: Implementation Issues with Comparative Analysis [IFAC 2018](https://github.com/MizuhoAOKI/python_simple_mppi)  
+Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty at CDC 2022. [CDC 2022](https://github.com/tianchenji/Robust-SM-MPC)
 ## learning mpc
 GAN-MPC: Training Model Predictive Controllers with Parameterized Cost Functions using Demonstrations from Non-identical Experts. [best paper RBCDSAI-DAI 2023](https://github.com/returaj/gan_mpc)  
 ## Event-trigger model predictive control  
