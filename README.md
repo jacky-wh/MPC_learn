@@ -7,9 +7,10 @@ GAN-MPC: Training Model Predictive Controllers with Parameterized Cost Functions
 ## Event-trigger model predictive control  
 Event-Triggered Model Predictive Control with Deep Reinforcement Learning for Autonomous Driving. [Github 2022](https://github.com/dangfengying/rl-based-event-triggered-mpc)  
 Event-triggered and distributed model predictive control for guaranteed collision avoidance in UAV swarms. [Github 2022](https://github.com/data-science-in-mechanical-engineering/et-distributed-uav-path-planner)  
-GithubLearning-based Event-triggered MPC with Gaussian processes and terminal constraints
+GithubLearning-based Event-triggered MPC with Gaussian processes and terminal constraints  
 
-
+## Stochastic mpc
+SMPC [Github](https://github.com/tim283/smpc_example)
 
 ## demo
 MPC with Gaussian Process [Github](https://github.com/helgeanl/GP-MPC)  
