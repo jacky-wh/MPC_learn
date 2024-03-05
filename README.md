@@ -18,6 +18,7 @@ tube-mpc [Github](https://github.com/rhrhhrhr/tube-mpc)
 Tube MPC [Github](https://github.com/smilesun/tube_mpc)  
 Robust Model predictive control via sequential convex programming for obstacle avoidance [Github](https://github.com/taewankim1/robust_mpc_obstacle_avoidance)  
 Model predictive control in Python based on quadratic programming [Github](https://github.com/stephane-caron/qpmpc)  
+robust tube mpc [Github](https://github.com/HiroIshida/robust-tube-mpc)
 
 ### demo
 CasADi [Github](https://github.com/adamlm/mpc_demo)  
